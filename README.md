@@ -1,5 +1,5 @@
 🚗 Road Accident Analysis Dashboard
-📌 Overview
+Overview
 
 Analyzed road accident data using Power BI to identify trends and key factors affecting road safety.
 
