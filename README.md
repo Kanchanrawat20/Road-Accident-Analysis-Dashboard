@@ -1,16 +1,24 @@
-🚗 Road Accident Analysis Dashboard
-Overview
+Road Accident Analysis Dashboard
 
-Analyzed road accident data using Power BI to identify trends and key factors affecting road safety.
+## Overview
+Developed an interactive Power BI dashboard to analyze road accident data and identify trends, patterns, and factors affecting road safety. The project transformed raw accident data into actionable insights to support data-driven decision-making.
 
-Tools
-Power BI, DAX, Data Modeling
+## Tools & Technologies
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
 
-Features
-Year-wise trends
-Vehicle-wise analysis
-Weather & road condition insights
-Interactive dashboard
+## Key Features
+* Year-over-Year accident trend analysis
+* Vehicle-wise accident analysis
+* Weather and road condition insights
+* Interactive filters and visualizations
+* KPI tracking for accidents and casualties
 
-Outcome
-Provided insights to support data-driven decisions for improving road safety.
+## Challenges
+Handled missing and inconsistent data by performing data cleaning and transformation using Power Query.
+
+## Outcome
+Built an interactive dashboard that provided meaningful insights into accident patterns while enhancing skills in Power BI, DAX, data cleaning, and data visualization.
+
